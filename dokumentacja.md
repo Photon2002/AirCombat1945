@@ -156,8 +156,11 @@ Możliwe jest również otworzenie w terminalu folderu z grą, a następnie wpis
 
 ----------
 ## **5. Literatura i pomoce**
-https://www.pygame.org/docs/
+https://www.pygame.org/docs/ <br>
 https://www.geeksforgeeks.org/python/pygame-tutorial/
+
+Wykorzystana muzyka:
+https://www.youtube.com/watch?v=ER8Ouf62kOo
 
 ----------
 ## **6. Wymagania**
