@@ -165,6 +165,8 @@ https://www.youtube.com/watch?v=ER8Ouf62kOo
 ----------
 ## **6. Wymagania**
 **Python** - testowane na wersji **3.13**
+
 **PyGame** - testowane na wersji **2.6.1**
+
 Opcjonalnie:
 **Środowisko PyCharm**
