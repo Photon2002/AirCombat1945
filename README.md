@@ -4,7 +4,7 @@
 ## **1. Opis programu**
 Program to gra lotnicza inspirowana przeglądarkową grą Fighter Pilot 42  <br>
 Cel gry Air Combat: <br>
-Gra polega poruszaniu się samolotem po planszy i strącaniu nadlatujących przeciwników, przy jednoczesnym unikaniu ostrzału z ich strony. Celem gry jest osiągnięcie jak największego wyniku, jak największej ilości zestrzeleń i jak największej pokonanej odległości. W czasie gry oprócz samolotów przeciwnika w sposób losowy generowane są pakiety naprawcze umożliwiające naprawę samolotu.<br>
+Gra polega na poruszaniu się samolotem po planszy i strącaniu nadlatujących przeciwników, przy jednoczesnym unikaniu ostrzału z ich strony. Celem gry jest osiągnięcie jak największego wyniku, jak największej ilości zestrzeleń i jak największej pokonanej odległości. W czasie gry oprócz samolotów przeciwnika w sposób losowy generowane są pakiety naprawcze umożliwiające naprawę samolotu.<br>
 
 Link do gry stanowiącej inspirację dla projektu: https://www.gameflare.com/online-game/fighter-patrol-42/
 
@@ -150,7 +150,7 @@ Metody klasy:
 ----------
 
 ## **4. Sposób uruchomienia oraz obsługa**
-Zalecaną opcją jest otworzenie projektu w środowisku PyCharm i uruchominie za pomocą przycisku Run.  
+Zalecaną opcją jest otworzenie projektu w środowisku PyCharm i uruchomienie za pomocą przycisku Run.  
 Możliwe jest również otworzenie w terminalu folderu z grą, a następnie wpisanie w terminalu polecenia:
 `python3 Gra.py` 
 
